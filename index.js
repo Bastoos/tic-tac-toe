@@ -96,6 +96,12 @@ module.exports = checkWinner;
   - Pesquisa direta a base de dados;
   - Image data set para ter imagens;
   - Ter users;
+
+  - como montar servidor com node;
+  - modelo de dados:
+    - Como guardar users 
+    - Como guardar imagens
+  - como fazer login / lidar com sessao de users;
   
   - Aprender Docker (n para ja);
 */
