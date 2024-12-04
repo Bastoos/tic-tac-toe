@@ -79,3 +79,23 @@ const gameLoop = () => {
 gameLoop();
 
 module.exports = checkWinner;
+
+/*
+  ---- system de image search ---
+  
+  - image submit (for now single but in the future multiple image);
+  - Como as imagens vao ser inseridas;
+  
+  - PostgreSQL; 
+  - Node js - para backend;
+  - Python para ML;
+  - API (perceber/estudar);
+  - Complexidades temporais/espaciais; 
+  - Arquitetura;
+  
+  - Pesquisa direta a base de dados;
+  - Image data set para ter imagens;
+  - Ter users;
+  
+  - Aprender Docker (n para ja);
+*/
