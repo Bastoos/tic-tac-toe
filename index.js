@@ -77,3 +77,5 @@ const gameLoop = () => {
 };
 
 gameLoop();
+
+module.exports = checkWinner;
